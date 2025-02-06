@@ -5,7 +5,7 @@ Student Table é uma aplicação desenvolvida para exibir informações sobre al
 ---
 
 ### 🚀 Acesse o projeto:
-🔗 [Convert Template - Clique aqui para acessar](https://convert-template-rust.vercel.app/)
+🔗 [Student Table - Clique aqui para acessar](https://tabela-estudantes-jdsp.vercel.app/)
 
 ---
 
